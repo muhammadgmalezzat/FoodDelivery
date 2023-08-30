@@ -1,0 +1,11 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  background: #faf9fb;
+  overflow-x: hidden;
+}
+
+.App::-webkit-scrollbar{
+  display: none;
+  
+}
